@@ -41,8 +41,10 @@ adj(A) =
 
 ![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{-10}{-88}&\frac{-3}{-88}&\frac{-11}{-88}\\\\\frac{6}{-88}&\frac{37}{-88}&\frac{-11}{-88}\\\\\frac{14}{-88}&\frac{13}{-88}&\frac{-11}{-88}\end{bmatrix}\cdot(\begin{bmatrix}12\\\\-13\\\\10\end{bmatrix}))
 
-![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{(-10)(12)+(-3)(-13)+(-11)(10)}{-88}\\\\\frac{(6)(-13)+(37)(-13)+(-11)(-13)}{-88}\\\\\frac{(14)(10)+(13)(10)+(-11)(10)}{-88}\end{bmatrix})
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{(-10)(12)+(-3)(-13)+(-11)(10)}{-88}\\\\\frac{(6)(12)+(37)(-13)+(-11)(10)}{-88}\\\\\frac{(14)(12)+(13)(-13)+(-11)(10)}{-88}\end{bmatrix})
 
-![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{(-10)(12)+(-3)(-13)+(-11)(10)}{-88}\\\\\frac{(6)(-13)+(37)(-13)+(-11)(-13)}{-88}\\\\\frac{(14)(10)+(13)(10)+(-11)(10)}{-88}\end{bmatrix})
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{-91}{-88}\\\\\frac{-396)}{-88}\\\\\frac{}{-88}\end{bmatrix})
+
+
 
 ![](https://latex.codecogs.com/gif.latex?\displaystyle\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{36}{11}\\\\\frac{52}{11}\\\\-\frac{20}{11}\end{bmatrix})
