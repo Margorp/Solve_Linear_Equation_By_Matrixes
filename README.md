@@ -43,8 +43,20 @@ adj(A) =
 
 ![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{(-10)(12)+(-3)(-13)+(-11)(10)}{-88}\\\\\frac{(6)(12)+(37)(-13)+(-11)(10)}{-88}\\\\\frac{(14)(12)+(13)(-13)+(-11)(10)}{-88}\end{bmatrix})
 
-![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{-91}{-88}\\\\\frac{-396)}{-88}\\\\\frac{}{-88}\end{bmatrix})
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{191}{88}\\\\\frac{519}{88}\\\\\frac{111}{88}\end{bmatrix})
 
+![](https://latex.codecogs.com/gif.latex?x=\frac{191}{88})
 
+![](https://latex.codecogs.com/gif.latex?y=\frac{519}{88})
 
-![](https://latex.codecogs.com/gif.latex?\displaystyle\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{36}{11}\\\\\frac{52}{11}\\\\-\frac{20}{11}\end{bmatrix})
+![](https://latex.codecogs.com/gif.latex?z=\frac{111}{88})
+
+Test:
+
+![](https://latex.codecogs.com/gif.latex?3\frac{191}{88}+2\frac{519}{88}-5\frac{111}{88}=12)
+
+![](https://latex.codecogs.com/gif.latex?3(191)+2(519)-5(111)=(12)(88))
+
+![](https://latex.codecogs.com/gif.latex?573+1038-555=880+176)
+
+![](https://latex.codecogs.com/gif.latex?1056=1056)
