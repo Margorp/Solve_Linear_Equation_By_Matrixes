@@ -39,6 +39,11 @@ adj(A) =
 
 ![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\frac{1}{-88}\cdot(\begin{bmatrix}-10&3&-11\\\\6&37&-11\\\\14&13&-11\end{bmatrix})\cdot(\begin{bmatrix}12\\\\-13\\\\10\end{bmatrix}))
 
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{-10}{-88}&\frac{3}{-88}&\frac{-11}{-88}\\\\\frac{6}{-88}&\frac{37}{-88}&\frac{-11}{-88}\\\\\frac{14}{-88}&\frac{13}{-88}&\frac{-11}{-88}\end{bmatrix}\cdot(\begin{bmatrix}12\\\\-13\\\\10\end{bmatrix}))
+
+
+
+
 +((-3)(4)-(2)(-1))
 -((1)(4)-(2)(5))
 +((1)(-1)-(-3)(5))
