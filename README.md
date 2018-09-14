@@ -14,4 +14,11 @@ let A =
 let B = 
 ![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}12\\\\-13\\\\10\end{bmatrix})
 
-![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}3&2&-5\\\\1&-3&2\\\\5&-1&4\end{bmatrix}^{-1}\.\begin{bmatrix}12\\\\-13\\\\10\end{bmatrix})
+det(A) = 
+![](https://latex.codecogs.com/gif.latex?3\times\begin{bmatrix}-3&2\\\\-1&4\end{bmatrix}-2\times\begin{bmatrix}1&2\\\\5&4\end{bmatrix}+5\times\begin{bmatrix}1&-3\\\\5&-1\end{bmatrix}=-88)
+
+![](https://latex.codecogs.com/gif.latex?)
+
+
+
+![](https://latex.codecogs.com/gif.latex?A^-1=\frac{1}{\bar{A}\bar}\times\begin{bmatrix}\end{bmatrix})
