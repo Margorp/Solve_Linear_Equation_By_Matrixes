@@ -20,8 +20,4 @@ det(A) =
 det(A)=
 ![](https://latex.codecogs.com/gif.latex?-3((-3)(4)-(2)(-1))-(2)((1)(4)-(2)(5))+(-5)((1)(-1)-(-3)(5))=-88)
 
-![](https://latex.codecogs.com/gif.latex?)
-
-
-
 ![](https://latex.codecogs.com/gif.latex?A^-1=\frac{1}{\bar{A}\bar}\times\begin{bmatrix}\end{bmatrix})
