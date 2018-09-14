@@ -27,7 +27,7 @@ adj(A)=
 ![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}+\begin{bmatrix}-3&2\\\\-1&4\end{bmatrix}&-\begin{bmatrix}1&2\\\\5&4\end{bmatrix}&+\begin{bmatrix}1&-3\\\\5&-1\end{bmatrix}\\\\-\begin{bmatrix}2&-5\\\\-1&4\end{bmatrix}&+\begin{bmatrix}3&-5\\\\5&4\end{bmatrix}&-\begin{bmatrix}3&2\\\\5&-1\end{bmatrix}\\\\+\begin{bmatrix}2&-5\\\\-3&2\end{bmatrix}&-\begin{bmatrix}3&-5\\\\1&2\end{bmatrix}&+\begin{bmatrix}3&2\\\\1&-3\end{bmatrix}\end{bmatrix})
 
 adj(A)=
-![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}+((-3)(4)-(2)(-1))&-((1)(4)-(2)(5))&+((1)(-1)-(-3)(5))////-((2)(4)-(-5)(-1))&+((3)(4)-(-5)(5))&-((3)(-1)-(2)(5))////+((2)(2)-(-5)(-3))&-((3)(2)-(-5)(1))&+((3)(-3)-(2)(1))\end{bmatrix})
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}+((-3)(4)-(2)(-1))&-((1)(4)-(2)(5))&+((1)(-1)-(-3)(5))\\\\-((2)(4)-(-5)(-1))&+((3)(4)-(-5)(5))&-((3)(-1)-(2)(5))\\\\+((2)(2)-(-5)(-3))&-((3)(2)-(-5)(1))&+((3)(-3)-(2)(1))\end{bmatrix})
 
 
 
