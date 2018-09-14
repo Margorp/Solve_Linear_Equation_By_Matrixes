@@ -33,9 +33,9 @@ adj(A)=
 ![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}-10&6&14\\\\3&37&13\\\\-11&-11&-11\end{bmatrix}^T)
 
 adj(A) = 
-![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}-10&3&-11\\\\6&36&-11\\\\14&13&-11\end{bmatrix})
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}-10&3&-11\\\\6&37&-11\\\\14&13&-11\end{bmatrix})
 
-![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}\end{bmatrix})
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\frace{1}{det(A)}\.adj(A)\.B)
 
 +((-3)(4)-(2)(-1))
 -((1)(4)-(2)(5))
