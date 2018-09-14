@@ -24,3 +24,7 @@ det(A)=
 ![](https://latex.codecogs.com/gif.latex?-88)
 
 ![](https://latex.codecogs.com/gif.latex?A^-1=\frac{1}{\bar{A}\bar}\times\begin{bmatrix}\end{bmatrix})
+
+adj(A)=
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}\begin{bmatrix}-3&2\\\\-1&4\end{bmatrix}&\begin{bmatrix}1&2\\\\5&4\end{bmatrix}&\begin{bmatrix}1&-3\\\\5&-1\end{bmatrix}\\\\\begin{bmatrix}2&-5\\\\-1&4\end{bmatrix}&\begin{bmatrix}3&-5\\\\5&4\end{bmatrix}&\begin{bmatrix}3&2\\\\5&-1\end{bmatrix}\\\\\begin{bmatrix}2&-5\\\\-3&2\end{bmatrix}&\begin{bmatrix}3&-5\\\\1&2\end{bmatrix}&\begin{bmatrix}3&2\\\\1&-3\end{bmatrix}\end{bmatrix})
+
