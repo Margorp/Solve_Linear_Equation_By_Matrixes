@@ -43,16 +43,4 @@ adj(A) =
 
 ![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{(12)((-10)+(3)+(-11))}{-88}\\\\\frac{(-13)((6)+(37)+(-11))}{-88}\\\\\frac{(10)((14)+(13)+(-11))}{-88}\end{bmatrix})
 
-
-
-+((-3)(4)-(2)(-1))
--((1)(4)-(2)(5))
-+((1)(-1)-(-3)(5))
-
--((2)(4)-(-5)(-1))
-+((3)(4)-(-5)(5))
--((3)(-1)-(2)(5))
-
-+((2)(2)-(-5)(-3))
--((3)(2)-(-5)(1))
-+((3)(-3)-(2)(1))
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\begin{bmatrix}\frac{27}{11}\\\\-\frac{20}{11}\frac{52}{11}\\\\\end{bmatrix})
