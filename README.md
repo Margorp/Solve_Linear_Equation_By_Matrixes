@@ -37,6 +37,8 @@ adj(A) =
 
 ![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\frac{1}{det(A)}\cdot(adj(A))\cdot(B))
 
+![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}x\\\\y\\\\z\end{bmatrix}=\frac{1}{-88}\cdot(\begin{bmatrix}-10&3&-11\\\\6&37&-11\\\\14&13&-11\end{bmatrix})\cdot(\begin{bmatrix}12\\\\-13\\\\10\end{bmatrix}))
+
 +((-3)(4)-(2)(-1))
 -((1)(4)-(2)(5))
 +((1)(-1)-(-3)(5))
