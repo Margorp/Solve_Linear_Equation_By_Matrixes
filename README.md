@@ -15,7 +15,7 @@ let B =
 ![](https://latex.codecogs.com/gif.latex?\begin{bmatrix}12\\\\-13\\\\10\end{bmatrix})
 
 det(A) = 
-![](https://latex.codecogs.com/gif.latex?3\times\begin{bmatrix}-3&2\\\\-1&4\end{bmatrix}-2\times\begin{bmatrix}1&2\\\\5&4\end{bmatrix}+5\times\begin{bmatrix}1&-3\\\\5&-1\end{bmatrix}=-3(-3\times4-(2\times-1)-(-2)(1\times4-2\times5)=-88)
+![](https://latex.codecogs.com/gif.latex?3\times\begin{bmatrix}-3&2\\\\-1&4\end{bmatrix}-2\times\begin{bmatrix}1&2\\\\5&4\end{bmatrix}+5\times\begin{bmatrix}1&-3\\\\5&-1\end{bmatrix}=-3((-3)(4)-(2)(-1))-(-2)((1)(4)-(2)(5))=-88)
 
 ![](https://latex.codecogs.com/gif.latex?)
 
